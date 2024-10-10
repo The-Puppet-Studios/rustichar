@@ -1,13 +1,13 @@
 [package]
 name = "rustichar"
 description = "Rustichar is a cli tool made to check the occurrences of characters in a string"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Puppet <doggyandkira2013@gmail.com>"]
 readme = "README.md"
 edition = "2021"
 repository = "https://github.com/The-Puppet-Studios/rustichar"
 license-file = "LICENSE"
-keywords = ["cli", "program", "char", "count"]
+keywords = ["cli", "program", "char", "count", "hex"]
 
 [[bin]]
 name = "rustichar"
